@@ -14,8 +14,8 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: 
-  url: ""
+- name: Dream Lab
+  url: "https://fahim-sikder.github.io/#people"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Data Mining, and Deep Learning.
@@ -60,6 +60,6 @@ user_groups:
 - Researcher Assistant
 ---
 
-Umme Habiba Islam is a Research Assistant who works in the field of Computer Science. He was a Lecturer in Computer Science and Engineering department at Institute of Science, Trade, and Technology (ISTT).
+Umme Habiba Islam is a Research Assistant who works in the field of Computer Science. She was a Lecturer in Computer Science and Engineering department at Institute of Science, Trade, and Technology (ISTT).
 
 She was born in Satkhira, Bangladesh in 1993. She passed S.S.C from Bharukhali High School, Satkhira in 2009, and H.S.C from Shimanta Adarsha College, Satkhira in 2011. She received the B.Sc (Engineering) degree in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh.
