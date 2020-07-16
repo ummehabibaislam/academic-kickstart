@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Lecturer"
   company = "Institute of Science Trade & Technology (ISTT)"
-  company_url = ""
+  company_url = "https://istt.edu.bd/"
   location = "Mirpur, Dhaka"
   date_start = "2018-02-01"
   date_end = "2019-08-31"
@@ -30,5 +30,14 @@ date_format = "Jan 2006"
   * Conducting Class
   * Supervising Students
   """
+
+[[experience]]
+  title = "Junior Software Engineer"
+  company = "Astute Horse"
+  company_url = "https://astutehorse.com/"
+  location = "Gulshan, Dhaka"
+  date_start = "2017-06-01"
+  date_end = "2017-10-31"
+  description = ""
 
 +++
