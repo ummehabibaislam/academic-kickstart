@@ -3,7 +3,7 @@ title = "Bangla Neural Machine Translation"
 date = 2019-11-26T10:43:19+06:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Md. Fahim Sikder", "Uzzal Podder", "Umme Habiba Islam"]
+authors = ["Md Fahim Sikder", "Uzzal Podder", "Umme Habiba Islam", "Md Hanif Sikder", "Md. Rakib Hosen", "Asib Al Abani", "Shekh Tanjil Sharif"]
 
 # Publication type.
 # Legend:
@@ -19,7 +19,7 @@ authors = ["Md. Fahim Sikder", "Uzzal Podder", "Umme Habiba Islam"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Consideration at Pattern Recognition Letters"
+publication = "Work in Progress"
 publication_short = ""
 
 # Abstract.
