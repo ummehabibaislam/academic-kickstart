@@ -18,10 +18,10 @@
   url = "#accomplishments"
   weight = 3
 
-[[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 4
+#[[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 4
 
 [[main]]
   name = "Contact"

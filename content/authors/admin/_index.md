@@ -10,30 +10,31 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Assistant
+role: Data Science Enthusiast
 
 # Organizations/Affiliations
 organizations:
-- name: Dream Lab
-  url: "https://fahim-sikder.github.io/#people"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Data Mining, and Deep Learning.
+bio: My research interests include Data Science, Data Mining, and Deep Learning.
 
 interests:
+- Data Science
 - Data Mining
 - Deep Learning
 
 education:
   courses:
   - course: BSc (Engineering) in Computer Science & Engineering
-    institution: Bangabandhu Sheikh Mujibur Rahman Science & Technology University, Bangladesh
+    institution: Bangabandhu Sheikh Mujibur Rahman Science & Technology University, Gopalganj, Bangladesh
     year: 2016
   - course: Higher Secondary Certificate
-    institution: Shimanta Adarsha College, Satkhira
+    institution: Shimanta Adarsha College, Satkhira, Bangladesh
     year: 2011
   - course: Secondary School Certificate
-    institution: Bharukhali High School, Satkhira
+    institution: Bharukhali High School, Satkhira, Bangladesh
     year: 2009
 
 # Social/Academic Networking
@@ -43,7 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'
+  
+- icon: linkedin
+  icon_pack: fab
+  link: https://linkedin.com/in/habibatanni
+  
+  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -60,6 +67,6 @@ user_groups:
 - Researcher Assistant
 ---
 
-Umme Habiba Islam is a Research Assistant who works in the field of Computer Science. She was a Lecturer in Computer Science and Engineering department at Institute of Science, Trade, and Technology (ISTT).
+Umme Habiba Islam is a full stack developer and wordpress expert. She is also a data science enthusiast and her research interest includes data mining, deep learning. She was a Lecturer in Computer Science and Engineering department at Institute of Science, Trade, and Technology (ISTT), Bangladesh.
 
-She was born in Satkhira, Bangladesh in 1993. She passed S.S.C from Bharukhali High School, Satkhira in 2009, and H.S.C from Shimanta Adarsha College, Satkhira in 2011. She received the B.Sc (Engineering) degree in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh.
+Habiba received her B.Sc (Engineering) degree in Computer Science and Engineering from Bangabandhu Sheikh Mujibur Rahman Science and Technology University, Bangladesh in 2016.
